@@ -1,5 +1,31 @@
 # 💫 About Me:
-👋 About Me<br><br>I’m a Computer Science student at Virginia Tech with experience in software engineering, systems, data, and applied AI. I enjoy building projects that sit at the intersection of backend systems, real-time data, and intelligent analysis.<br>I’m currently focused on strengthening my full-stack and systems skills and aspiring to work as a Software Engineer on impactful, scalable products. I also lok forward to learning more about Machine Learning and how it works!<br><br>-----------------------------------------------<br><br>🛠 Tech Stack<br><br>Languages: Python, Java, JavaScript, SQL<br>Backend: Flask, Spring Boot, REST APIs<br>Frontend: React (learning), HTML, CSS<br>Data & AI: Pandas, NumPy, ML fundamentals<br>Tools: Git, GitHub, Docker (basic), Linux<br>Other: AWS (in progress), system design fundamentals<br><br><br>-----------------------------------------------<br><br>🚀 Outside of Code<br><br>Building side projects and refining old ones<br><br>Learning new tech through hands-on experimentation<br><br>Robotics, systems thinking, and problem-solving<br><br>Fitness, tennis, art, and staying active<br><br>
+
+I’m a Computer Science student at Virginia Tech with experience in software engineering, systems, data, and applied AI. I enjoy building projects that sit at the intersection of backend systems, real-time data, and intelligent analysis.
+I’m currently focused on strengthening my full-stack and systems skills and aspiring to work as a Software Engineer on impactful, scalable products. I also lok forward to learning more about Machine Learning and how it works!
+
+-----------------------------------------------
+
+🛠 Tech Stack
+
+Languages: Python, Java, JavaScript, SQL
+Backend: Flask, Spring Boot, REST APIs
+Frontend: React (learning), HTML, CSS
+Data & AI: Pandas, NumPy, ML fundamentals
+Tools: Git, GitHub, Docker (basic), Linux
+Other: AWS (in progress), system design fundamentals
+
+
+-----------------------------------------------
+
+🚀 Outside of Code
+
+Building side projects and refining old ones
+
+Learning new tech through hands-on experimentation
+
+Robotics, systems thinking, and problem-solving
+
+Fitness, tennis, art, and staying active
 
 
 # 💻 Tech Stack:
